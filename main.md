@@ -3,10 +3,10 @@
 
  **This will contain all the reading assignments for 201 course**
 
-| Files        |     Content              |  Link |
-|----------    |:------------:            |------:|
-| class-01.md  | HTML and Javascript      | https://hayashibli.github.io/Reading-notes201/class-01 |
-| class-02.md  | 
+|     Files      |              Content                   |  Link  |
+|  ----------    |          :------------:                |------: |
+| class-01.md  | HTML and Javascript                    | https://hayashibli.github.io/Reading-notes201/class-01 |
+| class-02.md  | HTML markups , CSS intro. and Js intro.|
 | class-03.md  |                          |  |
 | class-04.md  |                          |  |
 | class-05.md  |                          |  |
