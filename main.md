@@ -1,6 +1,8 @@
  # Code 201 Reading Notes
  [git intro](https://hayashibli.github.io/Reading-notes201/) 
 
+ **This will contain all the reading assignments for 201 course**
+
 | Files        |     Content              |  Link |
 |----------    |:------------:            |------:|
 | class-01.md  | HTML and Javascript      | https://hayashibli.github.io/Reading-notes201/class-01 |
