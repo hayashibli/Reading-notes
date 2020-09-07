@@ -7,7 +7,7 @@
 |  ----------  |          :------------:                |                      ------:                           |
 | class-01.md  | HTML and Javascript                    | https://hayashibli.github.io/Reading-notes201/class-01 |
 | class-02.md  | HTML markups , CSS intro. and Js intro.| https://hayashibli.github.io/Reading-notes201/class-02 |
-| class-03.md  |                                        |                                                        |
+| class-03.md  | HTML Lists, CSS Boxes, JS Control Flow | https://hayashibli.github.io/Reading-notes201/class-03 |               
 | class-04.md  |                                        |                                                        |
 | class-05.md  |                                        |                                                        |
 | class-06.md  |                                        |                                                        |
