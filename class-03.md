@@ -1,8 +1,8 @@
 # HTML Lists
 There are three main types of lists:
-1- Ordered list <ol></ol>: The items <li>item</li> inside this list are numbered.
-2- Unordered list <ul></ul>: The items inside this list are unordered so they start with bulletpoints.
-3- Definition lists <dl></dl>: This list includes terms <dt>term</dt> and their definitions <dd>term's definition</dd>.
+1- Ordered list (<ol></ol>): The items (<li>item</li> )inside this list are numbered.
+2- Unordered list (<ul></ul>): The items inside this list are unordered so they start with bulletpoints.
+3- Definition lists (<dl></dl>): This list includes terms (<dt>term</dt>) and their definitions (<dd>term's definition</dd>).
 
 - *Nested list* or *sub list* means list inside another , so for example if you made an ordered list you can put another list inside one of the ordered list's items.
 
