@@ -47,4 +47,4 @@ return width * height;
 var size = area (3, 4) ;)
 
 - variable's scope :  If you declare a variable within a function, it can only be used within that function. 
-A variable inside a function is called local variable and a variable outside the function statement is called global variable.
+A variable inside a function is called local variable and a variable outside the function statement is called global variable. 
