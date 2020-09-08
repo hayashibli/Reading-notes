@@ -5,8 +5,8 @@ There is different types of links:
 2- Linking to other pages on the same website: there's a shorthand for the absolute URL called **relative URL** with this you do not need to specify the domain name in the URL. In the image below you can see the first statement which is an example on the absolute URL and the second one is an example on the relative URL ![image!](https://image.slidesharecdn.com/slideshtmlcss-130114114521-phpapp01/95/learn-html-css-from-scratch-in-30-days-41-638.jpg?cb=1488135662)
 3- Email links: to create a link starts up with an email begin the href attribute value with **mailto:** then type the email address you want the email to be sent to.
 4- Opening links in a new window: it is done by using a new attribute with its value (target:"_blank") next to the (href) attribute and this attribute is preffered when you want to open another website in a new tab.
-5- Linking to a Specific Part of the *Same Page*: an example ((<a href="#top">)).
-6- Linking to a Specific Part of *Another Page*:an example ((<a href="http:/www.htmlandcssbookcom/#toppart">)).
+5- Linking to a Specific Part of the *Same Page*: an example (a href="#top").
+6- Linking to a Specific Part of *Another Page*:an example (a href="http:/www.htmlandcssbookcom/#toppart").
 
 # CSS Layouts
 Css treats html elements as boxes so they can be either block level boxes or inline boxes. 
