@@ -10,7 +10,7 @@
 | class-03.md  | HTML Lists, CSS Boxes, JS Control Flow | https://hayashibli.github.io/Reading-notes201/class-03 |               
 | class-04.md  | HTML Links, CSS Layout, JS Functions   | https://hayashibli.github.io/Reading-notes201/class-04 |
 | class-05.md  | HTML Images; CSS Color & Text          | https://hayashibli.github.io/Reading-notes201/class-05 |
-| class-06.md  |                                        |                                                        |
+| class-06.md  | JS Object Literals; The DOM            | https://hayashibli.github.io/Reading-notes201/class-06 |
 | class-07.md  |                                        |                                                        |
 | class-08.md  |                                        |                                                        |
 | class-09.md  |                                        |                                                        |
