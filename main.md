@@ -11,7 +11,7 @@
 | class-04.md  | HTML Links, CSS Layout, JS Functions   | https://hayashibli.github.io/Reading-notes201/class-04 |
 | class-05.md  | HTML Images; CSS Color & Text          | https://hayashibli.github.io/Reading-notes201/class-05 |
 | class-06.md  | JS Object Literals; The DOM            | https://hayashibli.github.io/Reading-notes201/class-06 |
-| class-07.md  |                                        |                                                        |
+| class-07.md  | HTML Tables; JS Constructor Functions  | https://hayashibli.github.io/Reading-notes201/class-07 |
 | class-08.md  |                                        |                                                        |
 | class-09.md  |                                        |                                                        |
 | class-10.md  |                                        |                                                        |
