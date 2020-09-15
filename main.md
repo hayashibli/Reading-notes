@@ -12,7 +12,7 @@
 | class-05.md  | HTML Images; CSS Color & Text          | https://hayashibli.github.io/Reading-notes201/class-05 |
 | class-06.md  | JS Object Literals; The DOM            | https://hayashibli.github.io/Reading-notes201/class-06 |
 | class-07.md  | HTML Tables; JS Constructor Functions  | https://hayashibli.github.io/Reading-notes201/class-07 |
-| class-08.md  |                                        |                                                        |
+| class-08.md  | More CSS Layout                        | https://hayashibli.github.io/Reading-notes201/class-08 |
 | class-09.md  |                                        |                                                        |
 | class-10.md  |                                        |                                                        |
 | class-11.md  |                                        |                                                        |
