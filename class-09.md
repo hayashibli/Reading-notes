@@ -56,6 +56,135 @@ if the form control has not been filled in correctly a message will appear this 
 5- placeholder attribute : it's value is text that will be shown in the text box until the user clicks in that area.
 
 # HTML lists, tables and forms
+**Bullet points styles**
+- list-style-type : this property controls the shape of the bullet points.
+So for an unordered list (ul), you can use these values : none,disc,circle and square. The ordered list (ol), you can use these values:
+decimal, decimal-leading-zero, lower-alpha, upper alpha, lower-roman and upper roman.
 
+- list-style-image : this property allows you to put images as bullet points and it starts with the url of the image.
+
+- list-style-position : this property has two values inside and outside to set the bullet points either inside the text box or outside
+to the left of the text block.
+
+- list style : this is a shorthand property in which you can put inside it multiple values related to the bullet points.
+
+**Table properties**
+- width 
+- padding 
+- text-transform 
+- letter-spacing, font-size
+- border-top, border-bottom
+- text-align 
+- background-color 
+- :hover 
+
+**Border on empty cells in the table**
+Empty-cell property has three values; hide, show and inherit.
+
+**Gaps Between Cells**
+- border-spacing : this property allows to make spaces between the table cells and its value can be separated into horizantal and vertical
+distances with px measurement.
+- border-collapse : this property has two values; collapse which collapse borders into single border or separate value which detach borders
+from each other.
+
+**Styling forms inputs**
+*Text Inputs* can be styled using these properties:
+- font-size
+- color and backgroung-color
+- border and border radius
+- :focus
+- :hover
+- background-image
+
+*Submit buttons* can be styled using these properties:
+- color
+- text-shadow
+- border-bottom
+- background-color
+- :hover
+
+*Fieldsets* can be styled using these properties:
+- width
+- color and background-color
+- border and border-radius
+- padding
+
+*Cursor* property  which allows to control the type of mouse cursor and there are many values for it:
+
+- auto
+- crosshair
+- default
+- pointer
+- move
+- text
+- wait
+- help
+- url("cursor.gif");
+
+
+# Javascript Events
+Events occur when user interacts with the web page like by clicking a button or a link and other things. After the event occurance it can be used to trigger particular function.
+
+**Different event types**
+These events can be used to trigger a function in your JavaScript code. 
+**EVENTS FIRE OR ARE RAISED**
+When an event has occurred, it is often described as having fired or been raised. 
+**EVENTS TRIGGER SCRIPTS**
+Events are said to trigger a function or script. 
+- UI EVENTS : Occur when a user interacts with the browser's user interface (UI) rather than the web page.
+load 
+unload 
+error 
+resize 
+scroll 
+
+- KEYBOARD EVENTS : Occur when a user interacts with the keyboard (see also input event) 
+keydown 
+keyup 
+keypress 
+
+- MOUSE EVENTS : Occur when a user interacts with a mouse. trackpad, or touchscreen.
+click 
+dbl click 
+mousedown 
+mouseup 
+mousemove 
+mouseover 
+mouseout 
+
+-FOCUS EVENTS : Occur when an element (e.g., a link or form field) gains or loses focus.
+focus / focus in
+blur / focusout
+
+- FORM EVENTS :Occur when a user interacts with a form element. 
+input
+change
+submit
+reset
+cut
+copy
+paste
+select
+
+-MUTATION EVENTS* : Occur when the DOM structure has been changed by a script.
+
+DOMSubtreeModified
+DOMNodelnserted
+DOMNodeRemoved
+OOMNodelnsertedlntoDocument
+DOMNodeRemovedFromOocument
+
+**HOW EVENTS TRIGGER JAVASCRIPT CODE ?**
+When the user interact with the web bage an event is fired and then you can use it to trigger javascript codes using three steps called together as the *event handling*.
+
+1- Select element's node
+2- Specify the event
+3- Call/ Run your code
+
+**Event listeners** are a more recent approach to handling events.
+element.AddEventListener(event, function name)
+
+!(image!)[https://cdn.tutsplus.com/active/uploads/legacy/flashtuts/074_EventListenersBasics/1.jpg']
+ 
 
 
