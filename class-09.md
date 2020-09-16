@@ -184,7 +184,7 @@ When the user interact with the web bage an event is fired and then you can use 
 **Event listeners** are a more recent approach to handling events.
 element.AddEventListener(event, function name)
 
-!(image!)[https://cdn.tutsplus.com/active/uploads/legacy/flashtuts/074_EventListenersBasics/1.jpg']
+!(image!)[https://cdn.tutsplus.com/active/uploads/legacy/flashtuts/074_EventListenersBasics/1.jpg]
  
 
 
