@@ -14,7 +14,7 @@
 | class-07.md  | HTML Tables; JS Constructor Functions  | https://hayashibli.github.io/Reading-notes201/class-07 |
 | class-08.md  | More CSS Layout                        | https://hayashibli.github.io/Reading-notes201/class-08 |
 | class-09.md  | Forms and Events                       | https://hayashibli.github.io/Reading-notes201/class-09 |
-| class-10.md  |                                        |                                                        |
+| class-10.md  |  JS Debugging                          | https://hayashibli.github.io/Reading-notes201/class-10 |
 | class-11.md  |                                        |                                                        |
 | class-12.md  |                                        |                                                        | 
 | class-13.md  |                                        |                                                        |
