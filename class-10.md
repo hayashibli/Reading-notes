@@ -1,7 +1,13 @@
 #Js Debugging
+
+
+
+
 **Debugging** is the process of finding errors and then fixing them. 
 There is a possibility to make mistakes when writing the JavaScript code so then errors will appear.
+
 **Order of execution**: some tasks cannot complete until another statement or function has been run
+
 **Execution context** : 
 Every statement in a script lives in one of the execution contexts:
  1- GLOBAL CONTEXT
@@ -9,11 +15,15 @@ Code that is in the script, but not in a function.
 There is only one global context in any page.
  2- FUNCTION CONTEXT
 Code that is being run within a function, so each function has its own function context. 
-**The stack** : Js interpreter process each line at a time so when a statement needs data from another function it stacks or piles the new function on the top of the current statement.
+
+**The stack** : Js interpreter process each line at a time so when a statement needs data from another function it stacks or piles the 
+new function on the top of the current statement.
+
 **Execution context & Hoisting**
 Each time a script enters a new execution context, there are two phases of activity :
 - Prepare
 - Execute
+
 **Error objects** can help you find where your mistakes are and browsers have built-in tools to help you read them. When an error object is created it will contain these properties:
 - name (type of exexution)
 - message (description)
