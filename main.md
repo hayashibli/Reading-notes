@@ -18,5 +18,5 @@
 | class-11.md  | Audio, Video, Images                   | https://hayashibli.github.io/Reading-notes201/class-11 |
 | class-12.md  | Chart.js, Canvas                       | https://hayashibli.github.io/Reading-notes201/class-12 | 
 | class-13.md  | Local Storage                          | https://hayashibli.github.io/Reading-notes201/class-13 |
-| class-14.md  |                                        |                                                        |
+| class-14.md  | CSS Transforms,Transitions,Animations  | https://hayashibli.github.io/Reading-notes201/class-14a|
 | class-15.md  |                                        |                                                        |
